@@ -1,4 +1,9 @@
 ## ALS 논문 알고리즘
+import pandas as pd
+import numpy as np
+import scipy.sparse as sparse
+import scipy.linalg.spsolve as spsolve
+
 def ALS(train_set, lambda_val = 0.1, alpha = 40, iterations = 10, rank_size = 20, seed = 0):
     
     ### 신뢰행렬 정의
