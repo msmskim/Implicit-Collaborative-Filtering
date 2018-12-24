@@ -16,8 +16,13 @@ AlternatingLeastSquares를 사용하기 위해서는 implicit을 설치해야합
 pip install implicit
 
 참조 사이트
+
 https://jessesw.com/Rec-System
+
 https://medium.com/radon-dev/als-implicit-collaborative-filtering-5ed653ba39fe
+
 https://github.com/benfred/implicit
+
 https://implicit.readthedocs.io/en/latest/quickstart.html
+
 http://yifanhu.net/PUB/cf.pdf
