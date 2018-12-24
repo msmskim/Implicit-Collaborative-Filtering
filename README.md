@@ -12,7 +12,7 @@ Collaborative Filtering for Implicit Dataset 논문을 구현한 것입니다.
 이 튜토리얼을 참고해서 변형한다면, 파이썬으로 효과적인 ALS 기반 추천을 사용할 수 있을 것입니다.
 
 참조 사이트
-https://jessesw.com/Rec-System/
+https://jessesw.com/Rec-System
 
 https://medium.com/radon-dev/als-implicit-collaborative-filtering-5ed653ba39fe
 
